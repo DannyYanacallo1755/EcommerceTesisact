@@ -1,0 +1,7 @@
+{
+  "name": "EcommerceTesis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
